@@ -4,6 +4,11 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    
+}
+body{
+    background-color: #424242;
+    color: white;
 }
 .btn-outline-success
 {
@@ -124,4 +129,15 @@
   }
   .contact{
     color: #CD5C5C;
+  }
+  .card-body{
+    background-color: black;
+    color: white;
+
+  }
+  .container.text-center.ha.py-4{
+    background-color: black;
+
+  }.card.mb-3{
+    background-color: black;
   }
